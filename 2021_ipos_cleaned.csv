@@ -1,0 +1,820 @@
+IPO Date,Symbol,Company Name,IPO Price,Current,Return,Founded,Industry,Sector,Is SPAC
+2021-12-30,GMFI,Aetherium Acquisition Corp.,10.0,10.75,7.5,2021,Shell Companies,Financials,Yes
+2021-12-28,WTMA,Welsbach Technology Metals Acquisition Corp.,10.0,10.78,7.8,2021,Shell Companies,Financials,Yes
+2021-12-27,AOGO,Arogo Capital Acquisition Corp.,10.0,10.65,6.5,2021,Shell Companies,Financials,Yes
+2021-12-22,GDNR,Gardiner Healthcare Acquisitions Corp.,10.0,10.8,8.0,2021,Shell Companies,Financials,Yes
+2021-12-22,NXGL,"NEXGEL, Inc.",5.5,1.95,-64.55,1997,Medical Instruments & Supplies,Healthcare,No
+2021-12-21,NVAC,NorthView Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-12-21,SAGA,Sagaliam Acquisition,10.0,9.97,-0.3,2021,Shell Companies,Financials,Yes
+2021-12-17,RCAC,Revelstone Capital Acquisition,10.0,9.9,-1.0,2021,Shell Companies,Financials,Yes
+2021-12-17,APCA,AP Acquisition,10.0,10.11,1.1,2021,Shell Companies,Financials,Yes
+2021-12-16,ADRT,Ault Disruptive Technologies,10.0,10.02,0.15,2021,Shell Companies,Financials,No
+2021-12-16,SANG,Sangoma Technologies,22.68,16.69,-26.41,1984,Software - Infrastructure,Technology,No
+2021-12-16,SHAP,Spree Acquisition 1,10.0,9.98,-0.2,2021,Shell Companies,Financials,Yes
+2021-12-16,IMMX,Immix Biopharma,5.0,3.48,-30.4,2014,Biotechnology,Healthcare,No
+2021-12-16,CFFS,CF Acquisition VII,10.0,10.02,0.2,2020,Shell Companies,Financials,Yes
+2021-12-16,BNOX,Bionomics,15.45,12.75,-17.48,1996,Biotechnology,Healthcare,No
+2021-12-15,GNTA,Genenta Science S.p.A.,11.5,11.23,-2.35,2014,Biotechnology,Healthcare,No
+2021-12-15,PRLH,Pearl Holdings Acquisition,10.0,9.99,-0.15,2021,Shell Companies,Financials,Yes
+2021-12-15,AHRN,Ahren Acquisition,10.0,10.01,0.1,2021,Shell Companies,Financials,Yes
+2021-12-15,BFAC,Battery Future Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-12-15,IOT,Samsara,23.0,25.36,10.26,2015,Software - Infrastructure,Technology,No
+2021-12-15,IVCP,Swiftmerge Acquisition,10.0,9.89,-1.1,2021,Shell Companies,Financials,Yes
+2021-12-15,IVCB,Investcorp Europe Acquisition Corp I,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-12-14,VINE,Fresh Vine Wine,10.0,5.45,-45.5,2019,Beverages - Wineries & Distilleries,Consumer Staples,No
+2021-12-14,KACL,Kairous Acquisition,10.0,10.15,1.5,2021,Shell Companies,Financials,Yes
+2021-12-14,SIDU,Sidus Space,5.0,9.35,87.0,2012,Aerospace & Defense,Industrials,No
+2021-12-13,ALSA,Alpha Star Acquisition,10.0,10.23,2.3,2021,Shell Companies,Financials,Yes
+2021-12-10,PORT,Southport Acquisition,10.0,10.01,0.1,2021,Shell Companies,Financials,Yes
+2021-12-10,ATEK,Athena Technology Acquisition II,10.0,9.96,-0.4,2021,Shell Companies,Financials,Yes
+2021-12-10,FRBN,Forbion European Acquisition,10.0,9.99,-0.1,2021,Shell Companies,Financials,Yes
+2021-12-10,FXCO,Financial Strategies Acquisition,10.0,10.27,2.7,2020,Shell Companies,Financials,Yes
+2021-12-10,XPDB,Power & Digital Infrastructure Acquisition II,10.0,10.1,1.0,2021,Shell Companies,Financials,Yes
+2021-12-10,GFGD,Growth For Good Acquisition,10.0,9.99,-0.14,2021,Shell Companies,Financials,Yes
+2021-12-10,HAIA,Healthcare AI Acquisition,10.0,10.01,0.1,2021,Shell Companies,Financials,Yes
+2021-12-10,TCOA,Trajectory Alpha Acquisition,10.0,9.93,-0.67,2021,Shell Companies,Financials,Yes
+2021-12-09,WEL,Integrated Wellness Acquisition,10.0,10.07,0.72,2021,Shell Companies,Financials,Yes
+2021-12-09,GGAA,Genesis Growth Tech Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-12-09,RJAC,Jackson Acquisition Company,10.0,9.96,-0.4,2021,Shell Companies,Financials,Yes
+2021-12-09,NU,Nu Holdings,9.0,9.23,2.56,2013,Banks - Diversified,Financials,No
+2021-12-09,HORI,Emerging Markets Horizon,10.0,10.04,0.4,2021,Shell Companies,Financials,No
+2021-12-09,IGTA,Inception Growth Acquisition,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-12-09,NRSN,NeuroSense Therapeutics,6.0,3.14,-47.67,2017,Biotechnology,Healthcare,No
+2021-12-09,HCP,HashiCorp,80.0,84.97,6.21,2012,Software - Infrastructure,Technology,No
+2021-12-09,SCUA,Sculptor Acquisition I,10.0,10.05,0.48,2021,Shell Companies,Financials,Yes
+2021-12-09,TGAA,Target Global Acquisition I,10.0,9.94,-0.6,2021,Shell Companies,Financials,Yes
+2021-12-08,CING,Cingulate,6.0,2.75,-54.1,2012,Biotechnology,Healthcare,No
+2021-12-08,REFI,Chicago Atlantic Real Estate Finance,16.0,16.02,0.12,2021,REIT - Mortgage,Real Estate,No
+2021-12-07,APXI,APx Acquisition I,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-12-07,JWAC,Jupiter Wellness Acquisition,10.0,10.04,0.4,2021,Shell Companies,Financials,Yes
+2021-12-07,DAOO,Crypto 1 Acquisition,10.0,10.08,0.8,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-12-07,GLLI,Globalink Investment,10.0,10.18,1.8,2021,Shell Companies,Financials,No
+2021-12-03,BIOS,BioPlus Acquisition,10.0,10.01,0.1,2021,Shell Companies,Financials,Yes
+2021-12-03,BOCN,Blue Ocean Acquisition,10.0,10.02,0.2,2021,Shell Companies,Financials,Yes
+2021-12-03,STET,ST Energy Transition I,10.0,9.98,-0.2,2021,Shell Companies,Financials,No
+2021-12-03,BPAC,Bullpen Parlay Acquisition Company,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-12-02,ROC,ROC Energy Acquisition,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-12-02,UTAA,UTA Acquisition,10.0,10.02,0.2,2021,Shell Companies,Financials,Yes
+2021-12-02,GEEX,Games & Esports Experience Acquisition,10.0,10.14,1.4,2021,Shell Companies,Financials,Yes
+2021-12-01,CMCA,Capitalworks Emerging Markets Acquisition,10.0,10.11,1.05,2021,Shell Companies,Financials,Yes
+2021-12-01,ROCL,Roth CH Acquisition V Co.,10.0,9.99,-0.15,2020,Shell Companies,Financials,Yes
+2021-12-01,PACI,PROOF Acquisition I,10.0,10.02,0.2,2021,Shell Companies,Financials,Yes
+2021-12-01,TLGY,TLGY Acquisition,10.0,10.09,0.9,2021,Shell Companies,Financials,Yes
+2021-11-30,CNGL,Canna-Global Acquisition,10.0,10.11,1.1,2021,Shell Companies,Financials,Yes
+2021-11-24,MNTN,Everest Consolidator Acquisition,10.0,10.07,0.65,2021,Shell Companies,Financials,Yes
+2021-11-24,BRD,Beard Energy Transition Acquisition,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-11-23,VHNA,Vahanna Tech Edge Acquisition I,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-11-22,LGTO,Legato Merger II,10.0,10.01,0.1,2021,Shell Companies,Financials,No
+2021-11-19,AHI,Advanced Human Imaging,10.5,5.03,-52.1,2013,Software - Application,Technology,No
+2021-11-19,NFNT,Infinite Acquisition,10.0,10.04,0.4,2021,Shell Companies,Financials,Yes
+2021-11-19,ALOR,ALSP Orchid Acquisition I,10.0,10.04,0.37,2021,Shell Companies,Financials,Yes
+2021-11-19,LITM,Snow Lake Resources,7.5,4.86,-35.2,2018,Other Industrial Metals & Mining,Materials,No
+2021-11-19,IFIN,InFinT Acquisition,10.0,10.06,0.6,2021,Shell Companies,Financials,Yes
+2021-11-19,ZING,FTAC Zeus Acquisition,10.0,10.04,0.4,2020,Shell Companies,Financials,Yes
+2021-11-19,FINW,FinWise Bancorp,10.5,13.43,27.9,1999,Banks - Regional,Financials,No
+2021-11-18,ARIZ,Arisz Acquisition,10.0,10.08,0.8,2021,Shell Companies,Financials,Yes
+2021-11-18,SG,Sweetgreen,28.0,28.8,2.86,2007,Restaurants,Consumer Discretionary,No
+2021-11-18,BLEU,bleuacacia ltd.,10.0,10.04,0.4,2021,Shell Companies,Financials,No
+2021-11-17,USER,UserTesting,14.0,8.22,-41.29,2007,Software - Application,Technology,No
+2021-11-17,IREN,Iris Energy,28.0,17.97,-35.82,2018,Capital Markets,Financials,No
+2021-11-17,LFAC,LF Capital Acquisition II,10.0,10.1,1.0,2021,Shell Companies,Financials,Yes
+2021-11-17,SGII,Seaport Global Acquisition II,10.0,10.04,0.4,2021,Shell Companies,Financials,Yes
+2021-11-17,SUAC,ShoulderUp Technology Acquisition,10.0,10.03,0.25,2021,Shell Companies,Financials,Yes
+2021-11-17,BRZE,Braze,65.0,75.95,16.85,2011,Software - Application,Technology,No
+2021-11-17,NETC,Nabors Energy Transition,10.0,10.14,1.4,2021,Shell Companies,Financials,No
+2021-11-16,ENCP,Energem,10.0,10.15,1.5,2021,Shell Companies,Financials,No
+2021-11-12,DERM,Journey Medical,10.0,6.74,-32.6,2014,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-11-12,MCAG,Mountain Crest Acquisition V,10.0,10.12,1.2,2021,Shell Companies,Financials,Yes
+2021-11-12,BTBD,BT Brands,5.0,3.58,-28.4,1987,Restaurants,Consumer Discretionary,No
+2021-11-12,MYNA,Mynaric AG,17.48,13.71,-21.57,2009,Communication Equipment,Technology,No
+2021-11-12,IRRX,Integrated Rail & Resources Acquisition,10.0,9.99,-0.1,2021,Shell Companies,Financials,Yes
+2021-11-11,VAXX,Vaxxinity,13.0,6.69,-48.54,2019,Biotechnology,Healthcare,No
+2021-11-11,LVLU,Lulu's Fashion Lounge Holdings,16.0,10.83,-32.31,1996,Apparel Retail,Consumer Discretionary,No
+2021-11-11,VMGA,VMG Consumer Acquisition,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-11-11,TIVC,Tivic Health Systems,5.0,4.26,-14.8,2016,Medical Devices,Healthcare,No
+2021-11-11,PIK,Kidpik,8.5,7.21,-15.13,2016,Internet Retail,Consumer Discretionary,No
+2021-11-11,WEAV,Weave Communications,24.0,14.67,-38.88,2011,Software - Application,Technology,No
+2021-11-11,WBEV,"Winc, Inc.",13.0,5.29,-59.31,2012,Beverages-Wineries & Distilleries,Consumer Defensive,No
+2021-11-11,BEAT,HeartBeam,6.0,3.6,-40.0,2015,Health Information Services,Healthcare,No
+2021-11-11,BLZE,Backblaze,16.0,18.57,16.06,2007,Software - Infrastructure,Technology,No
+2021-11-10,BCSA,Blockchain Coinvestors Acquisition I,10.0,10.14,1.4,2021,Shell Companies,Financials,Yes
+2021-11-10,CBRG,Chain Bridge I,10.0,10.09,0.85,2021,Shell Companies,Financials,No
+2021-11-10,BJDX,Bluejay Diagnostics,10.0,3.26,-67.4,2015,Medical Devices,Healthcare,No
+2021-11-10,CINT,CI&T Inc.,15.0,12.69,-15.4,1995,Software - Infrastructure,Technology,No
+2021-11-10,EXFY,Expensify,27.0,35.36,30.96,2008,Software - Application,Technology,No
+2021-11-10,RIVN,Rivian Automotive,78.0,96.82,24.13,2009,Auto Manufacturers,Consumer Discretionary,No
+2021-11-10,RCFA,RCF Acquisition,10.0,10.02,0.2,2021,Shell Companies,Financials,Yes
+2021-11-10,ACDI,Ascendant Digital Acquisition III,10.0,10.07,0.65,2021,Shell Companies,Financials,Yes
+2021-11-09,TCBX,Third Coast Bancshares,25.0,26.33,5.32,2008,Banks - Regional,Financials,No
+2021-11-09,SOPA,Society Pass,9.0,10.63,18.11,2018,Software - Application,Technology,No
+2021-11-09,GVCI,Green Visor Financial Technology Acquisition I,10.0,10.06,0.57,2021,Shell Companies,Financials,Yes
+2021-11-09,DPCS,DP Cap Acquisition I,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-11-09,OLIT,OmniLit Acquisition,10.0,10.06,0.6,2021,Shell Companies,Financials,Yes
+2021-11-05,CIAN,Cian PLC,16.0,12.26,-23.38,2001,Real Estate Services,Real Estate,No
+2021-11-05,NPAB,New Providence Acquisition II,10.0,10.12,1.2,2020,Shell Companies,Financials,Yes
+2021-11-05,RRAC,Rigel Resource Acquisition,10.0,10.04,0.4,2021,Shell Companies,Financials,Yes
+2021-11-05,MYNZ,Mainz Biomed B.V.,5.0,9.21,84.2,2021,Diagnostics & Research,Healthcare,No
+2021-11-05,IQMD,Intelligent Medicine Acquisition,10.0,10.18,1.8,2021,Shell Companies,Financials,Yes
+2021-11-05,SVNA,7 Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-11-05,RGF,Real Good Food Company,12.0,5.73,-52.25,2016,Packaged Foods,Consumer Staples,No
+2021-11-05,MCAA,Mountain & Co. I Acquisition,10.0,10.14,1.4,2021,Shell Companies,Financials,Yes
+2021-11-05,IOBT,IO Biotech,14.0,8.26,-41.0,2014,Biotechnology,Healthcare,No
+2021-11-04,MDXH,MDxHealth,13.46,9.47,-29.64,2003,Diagnostics & Research,Healthcare,No
+2021-11-04,LION,Lionheart III,10.0,9.99,-0.1,2021,Shell Companies,Financials,Yes
+2021-11-04,JUN,Juniper II,10.0,10.08,0.8,2020,Shell Companies,Financials,No
+2021-11-04,SHCA,Spindletop Health Acquisition,10.0,10.05,0.5,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-11-04,FNVT,Finnovate Acquisition,10.0,10.1,1.0,2021,Shell Companies,Financials,Yes
+2021-11-04,TOAC,Talon 1 Acquisition,10.0,10.15,1.5,2021,Shell Companies,Financials,Yes
+2021-11-04,MPRA,Mercato Partners Acquisition,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-11-04,DHAC,Digital Health Acquisition,10.0,10.18,1.8,2021,Shell Companies,Financials,Yes
+2021-11-04,CDRE,Cadre Holdings,13.0,20.67,59.0,2012,Aerospace & Defense,Industrials,No
+2021-11-04,NRDS,NerdWallet,18.0,14.96,-16.89,2009,Credit Services,Financials,No
+2021-11-04,EVO,Evotec SE,26.16,22.4,-14.37,1993,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-11-04,SZZL,Sizzle Acquisition,10.0,10.04,0.4,2020,Shell Companies,Financials,Yes
+2021-11-04,CNDB,Concord Acquisition III,10.0,10.22,2.2,2021,Shell Companies,Financials,Yes
+2021-11-04,LGST,Semper Paratus Acquisition,10.0,10.09,0.9,2021,Shell Companies,Financials,Yes
+2021-11-04,ARHS,Arhaus,13.0,10.99,-15.46,1986,Home Improvement Retail,Consumer Discretionary,No
+2021-11-03,INTE,Integral Acquisition 1,10.0,9.96,-0.4,2021,Shell Companies,Financials,Yes
+2021-11-03,FRLA,Fortune Rise Acquisition,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-11-03,TRAQ,Trine II Acquisition,10.0,10.04,0.35,2021,Shell Companies,Financials,Yes
+2021-11-03,MLAI,McLaren Technology Acquisition,10.0,10.07,0.65,2021,Shell Companies,Financials,Yes
+2021-11-03,CMTG,Claros Mortgage Trust,18.65,16.1,-13.67,2015,REIT - Mortgage,Real Estate,No
+2021-11-03,BIRD,Allbirds,15.0,14.45,-3.67,2015,Apparel Retail,Consumer Discretionary,No
+2021-11-03,ONYX,Onyx Acquisition Co. I,10.0,10.13,1.3,2021,Shell Companies,Financials,Yes
+2021-11-03,TGVC,TG Venture Acquisition,10.0,10.24,2.4,2021,Shell Companies,Financials,Yes
+2021-11-01,VSAC,Vision Sensing Acquisition,10.0,10.08,0.8,2021,Shell Companies,Financials,Yes
+2021-11-01,LIAN,LianBio,16.0,7.47,-53.31,2019,Biotechnology,Healthcare,No
+2021-11-01,LIBY,Liberty Resources Acquisition,10.0,10.17,1.7,2021,Shell Companies,Financials,Yes
+2021-10-29,CCTS,Cactus Acquisition 1,10.0,10.04,0.4,2021,Shell Companies,Financials,Yes
+2021-10-29,PEGR,Project Energy Reimagined Acquisition,10.0,9.93,-0.7,2021,Shell Companies,Financials,Yes
+2021-10-29,HRT,HireRight Holdings,19.0,13.46,-29.16,1995,Staffing & Employment Services,Industrials,No
+2021-10-29,SEDA,SDCL EDGE Acquisition,10.0,9.9,-1.0,2021,Shell Companies,Financials,Yes
+2021-10-29,BFRI,Biofrontera,5.0,11.03,120.6,1997,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-10-29,AIRS,AirSculpt Technologies,11.0,13.74,24.91,2012,Medical Care Facilities,Healthcare,No
+2021-10-29,TRDA,Entrada Therapeutics,20.0,14.78,-26.1,2016,Biotechnology,Healthcare,No
+2021-10-29,SONX,Sonendo,12.0,6.75,-43.75,2006,Medical Devices,Healthcare,No
+2021-10-29,AEAE,AltEnergy Acquisition,10.0,10.12,1.2,2021,Shell Companies,Financials,Yes
+2021-10-29,AURA,Aura Biosciences,14.0,15.01,7.21,2007,Biotechnology,Healthcare,No
+2021-10-29,ARCK,Arbor Rapha Capital Bioholdings I,10.0,10.1,1.0,2021,Shell Companies,Financials,No
+2021-10-29,UDMY,Udemy,29.0,17.2,-40.69,2009,Education & Training Services,Consumer Staples,No
+2021-10-28,ADAL,Anthemis Digital Acquisitions I,10.0,10.14,1.4,2021,Shell Companies,Financials,Yes
+2021-10-28,PCCT,Perception Capital II,10.0,10.13,1.3,2021,Shell Companies,Financials,No
+2021-10-28,DTC,Solo Brands,17.0,14.2,-16.47,2011,Internet Retail,Consumer Discretionary,No
+2021-10-28,FLNC,Fluence Energy,28.0,31.92,14.0,2018,Utilities - Renewable,Utilities,No
+2021-10-28,GFS,GlobalFoundries,47.0,62.24,32.43,2009,Semiconductors,Technology,No
+2021-10-28,SCMA,Seaport Calibre Materials Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-10-28,FIAC,Focus Impact Acquisition,10.0,10.06,0.6,2021,Shell Companies,Financials,Yes
+2021-10-27,PHYT,Pyrophyte Acquisition,10.0,10.15,1.5,2021,Shell Companies,Financials,Yes
+2021-10-27,INFA,Informatica,29.0,35.48,22.34,1993,Software - Infrastructure,Technology,No
+2021-10-27,RENT,Rent The Runway,21.0,8.86,-57.81,2009,Apparel Retail,Consumer Discretionary,No
+2021-10-27,USCT,TKB Critical Technologies 1,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-10-27,DMAQ,Deep Medicine Acquisition,10.0,9.86,-1.4,2020,Shell Companies,Financials,Yes
+2021-10-27,IOAC,Innovative International Acquisition,10.0,10.12,1.2,2021,Shell Companies,Financials,Yes
+2021-10-27,MRAI,Marpai,4.0,4.3,7.5,2019,Healthcare Plans,Healthcare,No
+2021-10-27,AIP,Arteris,14.0,19.68,40.57,2003,Semiconductors,Technology,No
+2021-10-27,OHAA,OPY Acquisition I,10.0,9.99,-0.1,2020,Shell Companies,Financials,Yes
+2021-10-27,LVAC,LAVA Medtech Acquisition,10.0,10.2,2.0,2021,Shell Companies,Financials,Yes
+2021-10-22,PGSS,Pegasus Digital Mobility Acquisition,10.0,10.07,0.7,2021,Shell Companies,Financials,Yes
+2021-10-22,ICNC,Iconic Sports Acquisition,10.0,9.9,-1.0,2021,Shell Companies,Financials,Yes
+2021-10-22,UTRS,Minerva Surgical,12.0,4.58,-61.83,2008,Health Information Services,Healthcare,No
+2021-10-22,XLO,Xilio Therapeutics,16.0,11.61,-27.44,2016,Biotechnology,Healthcare,No
+2021-10-21,RWAY,Runway Growth Finance,14.6,13.18,-9.73,2015,Credit Services,Financials,No
+2021-10-21,NHIC,NewHold Investment II,10.0,9.99,-0.1,2021,Shell Companies,Financials,No
+2021-10-21,GTAC,Global Technology Acquisition I,10.0,9.83,-1.7,2021,Shell Companies,Financials,Yes
+2021-10-21,PX,"P10, Inc.",12.0,12.3,2.5,1992,Asset Management,Financials,No
+2021-10-21,COCO,The Vita Coco Company,15.0,10.9,-27.33,2004,Beverages - Non-Alcoholic,Consumer Staples,No
+2021-10-21,ENFN,Enfusion,17.0,18.57,9.24,1998,Software - Application,Technology,No
+2021-10-21,GOGN,GoGreen Investments,10.0,10.15,1.5,2021,Shell Companies,Financials,No
+2021-10-21,XFIN,ExcelFin Acquisition,10.0,10.03,0.3,2021,Shell Companies,Financials,Yes
+2021-10-21,VTYX,Ventyx Biosciences,16.0,15.14,-5.38,2018,Biotechnology,Healthcare,No
+2021-10-21,THAC,Thrive Acquisition,10.0,9.89,-1.1,2021,Shell Companies,Financials,Yes
+2021-10-21,PTLO,Portillo's,20.0,33.88,69.4,1963,Restaurants,Consumer Discretionary,No
+2021-10-21,ENER,Accretion Acquisition,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-10-20,WWAC,Worldwide Webb Acquisition,10.0,9.95,-0.5,2021,Shell Companies,Financials,Yes
+2021-10-20,CNTX,Context Therapeutics,5.0,3.12,-37.6,2015,Biotechnology,Healthcare,No
+2021-10-20,NCAC,Newcourt Acquisition,10.0,9.89,-1.1,2021,Shell Companies,Financials,Yes
+2021-10-20,ESAC,ESGEN Acquisition,10.0,10.15,1.5,2021,Shell Companies,Financials,Yes
+2021-10-20,SDIG,Stronghold Digital Mining,19.0,11.04,-41.89,2021,Capital Markets,Financials,No
+2021-10-20,CYN,Cyngn,7.5,4.84,-35.47,2013,Software - Application,Technology,No
+2021-10-20,ACAQ,Athena Consumer Acquisition,10.0,10.14,1.4,2021,Shell Companies,Financials,Yes
+2021-10-19,SMAP,SportsMap Tech Acquisition,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-10-19,ENTF,Enterprise 4.0 Technology Acquisition,10.0,10.1,0.98,2021,Shell Companies,Financials,Yes
+2021-10-19,FEXD,Fintech Ecosystem Development,10.0,10.22,2.2,2021,Shell Companies,Financials,No
+2021-10-19,BMAQ,Blockchain Moon Acquisition,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-10-15,AVHI,Achari Ventures Holdings I,10.0,9.86,-1.4,2021,Shell Companies,Financials,No
+2021-10-15,INKT,MiNK Therapeutics,12.0,4.45,-62.92,2017,Biotechnology,Healthcare,No
+2021-10-15,CDAQ,Compass Digital Acquisition,10.0,9.67,-3.3,2021,Shell Companies,Financials,Yes
+2021-10-15,PEPL,PepperLime Health Acquisition,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-10-15,FNA,Paragon 28,16.0,13.96,-12.75,2010,Medical Devices,Healthcare,No
+2021-10-14,BMAC,Black Mountain Acquisition,10.0,9.86,-1.4,2021,Shell Companies,Financials,Yes
+2021-10-14,TRIS,Tristar Acquisition I,10.0,9.73,-2.7,2021,Shell Companies,Financials,Yes
+2021-10-14,LUCD,Lucid Diagnostics,14.0,5.0,-64.29,2018,Medical Devices,Healthcare,No
+2021-10-14,GTLB,GitLab,77.0,94.84,23.17,2011,Software - Application,Technology,No
+2021-10-14,IHS,IHS Holding,21.0,13.14,-37.43,2001,Telecom Services,Communication Services,No
+2021-10-14,ROSE,Rose Hill Acquisition,10.0,9.93,-0.7,2021,Shell Companies,Financials,Yes
+2021-10-13,FATP,Fat Projects Acquisition,10.0,9.74,-2.6,2021,Shell Companies,Financials,Yes
+2021-10-13,HCTI,Healthcare Triangle,4.0,1.68,-58.0,2020,Health Information Services,Healthcare,No
+2021-10-13,AVDX,AvidXchange Holdings,25.0,15.41,-38.36,2000,Software - Infrastructure,Technology,No
+2021-10-12,GIAC,Gesher I Acquisition,10.0,9.78,-2.2,2021,Shell Companies,Financials,Yes
+2021-10-08,SAMA,Schultze Special Purpose Acquisition II,10.0,9.88,-1.2,2020,Shell Companies,Financials,Yes
+2021-10-08,CGTX,Cognition Therapeutics,12.0,5.47,-54.42,2007,Biotechnology,Healthcare,No
+2021-10-08,ISO,IsoPlexis,15.0,6.9,-54.0,2013,Medical Devices,Healthcare,No
+2021-10-08,HWKZ,Hawks Acquisition,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-10-08,JMAC,Jade Mountain Acquisition,10.0,9.92,-0.8,2021,Shell Companies,Financials,Yes
+2021-10-08,LCW,Learn CW Investment,10.0,10.01,0.1,2021,Shell Companies,Financials,No
+2021-10-07,LTH,Life Time Group Holdings,18.0,17.03,-5.39,1992,Leisure,Consumer Discretionary,No
+2021-10-07,TCN,Tricon Residential,12.4,14.37,15.89,1988,Real Estate Services,Real Estate,No
+2021-10-07,THRX,Theseus Pharmaceuticals,16.0,9.5,-40.63,2017,Biotechnology,Healthcare,No
+2021-10-07,IXAQ,IX Acquisition,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-10-06,NFYS,Enphys Acquisition,10.0,9.66,-3.4,2021,Shell Companies,Financials,Yes
+2021-10-06,PBAX,Phoenix Biotech Acquisition,10.0,9.9,-1.0,2021,Shell Companies,Financials,Yes
+2021-10-06,VLCN,Volcon,5.5,9.08,65.09,2020,Auto Manufacturers,Consumer Discretionary,No
+2021-10-06,NVEI,Nuvei,123.14,60.35,-50.99,2003,Software - Infrastructure,Technology,No
+2021-10-06,AVAC,Avalon Acquisition,10.0,9.87,-1.3,2020,Shell Companies,Financials,Yes
+2021-10-05,RNER,Mount Rainier Acquisition,10.0,10.15,1.5,2021,Shell Companies,Financials,Yes
+2021-10-05,BHAC,Crixus BH3 Acquisition,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-10-01,DMYS,"dMY Technology Group, Inc. VI",10.0,9.83,-1.7,2021,Shell Companies,Financials,No
+2021-10-01,MTRY,Monterey Bio Acquisition,10.0,9.87,-1.3,2020,Shell Companies,Financials,Yes
+2021-10-01,GATE,Marblegate Acquisition,10.0,9.77,-2.3,2020,Shell Companies,Financials,Yes
+2021-10-01,TDCX,"TDCX, Inc.",18.0,16.99,-5.61,1995,Specialty Business Services,Industrials,No
+2021-10-01,FWRG,First Watch Restaurant Group,18.0,15.35,-14.72,1983,Restaurants,Consumer Discretionary,No
+2021-10-01,EXAI,Exscientia,22.0,19.15,-12.95,2012,Biotechnology,Healthcare,No
+2021-10-01,PYXS,Pyxis Oncology,16.0,8.59,-46.31,2018,Biotechnology,Healthcare,No
+2021-09-30,OLPX,Olaplex Holdings,21.0,24.9,18.57,2014,Specialty Retail,Consumer Discretionary,No
+2021-09-30,ARTE,Artemis Strategic Investment,10.0,9.92,-0.8,2021,Shell Companies,Financials,No
+2021-09-30,HPLT,Home Plate Acquisition,10.0,9.73,-2.7,2021,Shell Companies,Financials,Yes
+2021-09-29,WRBY,Warby Parker,40.0,48.34,20.85,2010,Medical Instruments & Supplies,Healthcare,No
+2021-09-29,HCVI,Hennessy Capital Investment VI,10.0,9.66,-3.4,2021,Shell Companies,Financials,No
+2021-09-29,MEKA,MELI Kaszek Pioneer,10.0,11.35,13.5,2021,Shell Companies,Financials,No
+2021-09-28,PRBM,Parabellum Acquisition,10.0,9.76,-2.45,2021,Shell Companies,Financials,Yes
+2021-09-28,AMPL,Amplitude,35.0,54.08,54.51,2012,Software - Application,Technology,No
+2021-09-28,BACA,Berenson Acquisition I,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-09-24,GIA,GigCapital5,10.0,9.87,-1.3,2021,Shell Companies,Financials,No
+2021-09-24,DSAQ,Direct Selling Acquisition,10.0,9.92,-0.82,2021,Shell Companies,Financials,Yes
+2021-09-24,HLTH,Cue Health,16.0,11.75,-26.56,2010,Health Information Services,Healthcare,No
+2021-09-24,CWAN,Clearwater Analytics Holdings,18.0,20.46,13.67,2004,Software - Application,Technology,No
+2021-09-23,SOVO,Sovos Brands,12.0,14.06,17.17,2016,Packaged Foods,Consumer Staples,No
+2021-09-23,ARBK,Argo Blockchain,15.0,12.35,-17.67,2017,Capital Markets,Financials,No
+2021-09-23,STER,Sterling Check,23.0,19.75,-14.13,1975,Software - Infrastructure,Technology,No
+2021-09-23,RELY,Remitly Global,43.0,19.7,-54.19,2011,Software - Infrastructure,Technology,No
+2021-09-23,ESMT,EngageSmart,26.0,23.1,-11.15,2009,Software - Infrastructure,Technology,No
+2021-09-23,THRN,Thorne HealthTech,10.0,5.26,-47.4,1984,Packaged Foods,Consumer Staples,No
+2021-09-23,LOCC,Live Oak Crestview Climate Acquisition,10.0,9.65,-3.5,2021,Shell Companies,Financials,Yes
+2021-09-23,BRLT,Brilliant Earth Group,12.0,14.94,24.5,2005,Luxury Goods,Consumer Discretionary,No
+2021-09-22,IPAX,Inflection Point Acquisition,10.0,9.69,-3.1,2021,Shell Companies,Financials,Yes
+2021-09-22,TOST,Toast,40.0,37.64,-5.9,2012,Software - Infrastructure,Technology,No
+2021-09-22,ARGU,Argus Capital,10.0,9.9,-1.0,2021,Shell Companies,Financial Services,No
+2021-09-22,VBNK,VersaBank,10.0,11.53,15.3,1980,Banks - Regional,Financials,No
+2021-09-22,FRSH,Freshworks,36.0,29.45,-18.19,2010,Software - Application,Technology,No
+2021-09-22,AKA,a.k.a. Brands Holding,11.0,8.67,-21.18,2018,Internet Retail,Consumer Discretionary,No
+2021-09-21,HHGC,HHG Capital,10.0,9.87,-1.3,2020,Shell Companies,Financials,No
+2021-09-16,ACT,Enact Holdings,19.0,19.6,3.16,1981,Insurance - Specialty,Financials,No
+2021-09-16,FLYA,Soar Technology Acquisition,10.0,10.04,0.4,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-09-16,FORG,ForgeRock,25.0,22.58,-9.68,2010,Software - Infrastructure,Technology,No
+2021-09-15,BROS,Dutch Bros,23.0,49.14,113.65,1992,Restaurants,Consumer Discretionary,No
+2021-09-15,KTTA,Pasithea Therapeutics,5.0,1.58,-68.4,2020,Biotechnology,Healthcare,No
+2021-09-15,PRCT,PROCEPT BioRobotics,25.0,26.62,6.48,2009,Medical Devices,Healthcare,No
+2021-09-15,TWKS,Thoughtworks Holding,21.0,25.3,20.48,1993,Information Technology Services,Technology,No
+2021-09-15,DH,Definitive Healthcare,27.0,28.01,3.74,2011,Health Information Services,Healthcare,No
+2021-09-15,WINV,WinVest Acquisition,10.0,9.82,-1.8,2021,Shell Companies,Financials,Yes
+2021-09-15,EZFL,EzFill Holdings,4.0,1.67,-58.25,2019,Software - Application,Technology,No
+2021-09-15,CIIG,CIIG Capital Partners II,10.0,9.88,-1.2,2021,Shell Companies,Financials,No
+2021-09-15,DICE,DICE Therapeutics,17.0,23.42,37.76,2013,Biotechnology,Healthcare,No
+2021-09-15,AEHA,Aesther Healthcare Acquisition,10.0,9.98,-0.2,2021,Shell Companies,Financials,Yes
+2021-09-15,TYRA,Tyra Biosciences,16.0,12.43,-22.31,2018,Biotechnology,Healthcare,No
+2021-09-15,ONON,On Holding AG,24.0,37.58,56.58,2010,Apparel Retail,Consumer Discretionary,No
+2021-09-14,SRAD,Sportradar Group AG,27.0,18.88,-30.07,2001,Software - Application,Technology,No
+2021-09-14,PAFO,Pacifico Acquisition,10.0,9.92,-0.8,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-09-10,FLAG,First Light Acquisition Group,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-09-10,FHLT,Future Health ESG,10.0,9.79,-2.1,2021,Shell Companies,Financials,No
+2021-09-10,BNIX,Bannix Acquisition,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-09-10,SLVR,SilverSPAC,10.0,9.66,-3.4,2021,Shell Companies,Financials,No
+2021-09-08,BNNR,Banner Acquisition,10.0,9.77,-2.3,2021,Shell Companies,Financials,Yes
+2021-09-03,OXUS,Oxus Acquisition,10.0,9.88,-1.2,2021,Shell Companies,Financials,Yes
+2021-09-03,DWAC,Digital World Acquisition,10.0,50.63,406.3,2020,Shell Companies,Financials,Yes
+2021-09-02,INAQ,Insight Acquisition,10.0,9.78,-2.16,2021,Shell Companies,Financials,Yes
+2021-09-02,GIPR,Generation Income Properties,10.0,6.0,-40.0,2015,REIT - Diversified,Real Estate,No
+2021-09-02,DTRT,DTRT Health Acquisition,10.0,9.91,-0.9,2021,Shell Companies,Financials,Yes
+2021-09-01,CNDA,Concord Acquisition II,10.0,9.8,-2.0,2021,Shell Companies,Financials,Yes
+2021-08-31,DDI,DoubleDown Interactive Co.,18.0,14.5,-19.44,2008,Electronic Gaming & Multimedia,Communication Services,No
+2021-08-27,SQL,SeqLL,4.75,1.98,-58.32,2014,Diagnostics & Research,Healthcare,No
+2021-08-26,SWSS,Springwater Special Situations,10.0,9.78,-2.2,2020,Shell Companies,Financials,No
+2021-08-26,CCAI,Cascadia Acquisition,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-08-26,RNXT,RenovoRx,9.0,5.06,-43.78,2012,Biotechnology,Healthcare,No
+2021-08-26,MEOA,Minority Equality Opportunities Acquisition,10.0,9.94,-0.6,2021,Shell Companies,Financials,Yes
+2021-08-20,WAVC,Waverley Capital Acquisition 1,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-08-13,DRMA,Dermata Therapeutics,7.0,2.18,-68.86,2014,Biotechnology,Healthcare,No
+2021-08-13,CENQ,CENAQ Energy,10.0,9.91,-0.9,2020,Shell Companies,Financials,No
+2021-08-13,KCGI,Kensington Capital Acquisition V,10.0,9.82,-1.8,2021,Shell Companies,Financials,Yes
+2021-08-13,AACI,Armada Acquisition I,10.0,9.82,-1.85,2020,Shell Companies,Financials,Yes
+2021-08-13,DATS,DatChat,4.15,3.18,-23.37,2014,Software - Application,Technology,No
+2021-08-13,APMI,AxonPrime Infrastructure Acquisition,10.0,9.74,-2.6,2021,Shell Companies,Financials,Yes
+2021-08-13,JAQC,Jupiter Acquisition,10.0,9.63,-3.7,2020,Shell Companies,Financials,Yes
+2021-08-12,SSBK,Southern States Bancshares,19.0,20.0,5.26,2007,Banks - Regional,Financials,No
+2021-08-12,OXAC,Oxbridge Acquisition,10.0,9.91,-0.9,2021,Shell Companies,Financials,Yes
+2021-08-12,PPHP,PHP Ventures Acquisition,10.0,9.86,-1.4,2021,Shell Companies,Financials,Yes
+2021-08-12,AFTR,AfterNext HealthTech Acquisition,10.0,9.67,-3.35,2021,Shell Companies,Financials,Yes
+2021-08-11,WQGA,World Quantum Growth Acquisition,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-08-11,VCXA,10x Capital Venture Acquisition II,10.0,9.82,-1.8,2021,Shell Companies,Financials,Yes
+2021-08-11,PONO,Pono Capital,10.0,9.95,-0.5,2021,Shell Companies,Financials,No
+2021-08-11,TPBA,TPB Acquisition I,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-08-11,DCRD,Decarbonization Plus Acquisition IV,10.0,9.84,-1.56,2021,Shell Companies,Financials,Yes
+2021-08-10,CPAA,Conyers Park III Acquisition,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-08-10,ELYM,Eliem Therapeutics,12.5,10.24,-18.08,2018,Biotechnology,Healthcare,No
+2021-08-10,ASPA,Abri SPAC I,10.0,9.8,-2.0,2021,Shell Companies,Financials,No
+2021-08-06,ROCG,Roth CH Acquisition IV Co.,10.0,10.02,0.2,2019,Shell Companies,Financials,Yes
+2021-08-06,NOVV,Nova Vision Acquisition,10.0,9.91,-0.9,2021,Shell Companies,Financials,Yes
+2021-08-05,WEBR,Weber,14.0,11.68,-16.57,1893,"Furnishings, Fixtures & Appliances",Consumer Discretionary,No
+2021-08-05,EWCZ,European Wax Center,17.0,27.17,59.82,2004,Household & Personal Products,Consumer Staples,No
+2021-08-04,BWC,Blue Whale Acquisition I,10.0,9.69,-3.1,2021,Shell Companies,Financials,Yes
+2021-08-04,AMCI,AMCI Acquisition II,10.0,9.68,-3.2,2021,Shell Companies,Financials,Yes
+2021-08-03,HWEL,Healthwell Acquisition I,10.0,9.65,-3.5,2021,Shell Companies,Financials,Yes
+2021-07-30,RANI,Rani Therapeutics Holdings,11.0,17.07,55.18,2012,Biotechnology,Healthcare,No
+2021-07-30,RXST,RxSight,16.0,9.96,-37.75,1997,Medical Devices,Healthcare,No
+2021-07-30,DOLE,Dole plc,16.0,13.11,-18.06,1851,Farm Products,Consumer Staples,No
+2021-07-30,OMGA,Omega Therapeutics,17.0,13.27,-21.94,2017,Biotechnology,Healthcare,No
+2021-07-30,MXCT,MaxCyte,13.0,9.86,-24.15,1999,Medical Devices,Healthcare,No
+2021-07-30,TNYA,Tenaya Therapeutics,15.0,19.26,28.4,2016,Biotechnology,Healthcare,No
+2021-07-30,IMRX,Immuneering,15.0,22.49,49.93,2008,Biotechnology,Healthcare,No
+2021-07-29,RLYB,Rallybio,13.0,10.76,-17.23,2018,Biotechnology,Healthcare,No
+2021-07-29,HOOD,Robinhood Markets,38.0,18.93,-50.18,2013,Software - Infrastructure,Technology,No
+2021-07-29,NUVL,Nuvalent,17.0,20.67,21.59,2017,Biotechnology,Healthcare,No
+2021-07-29,MTAL,Metals Acquisition,10.0,9.68,-3.2,2021,Shell Companies,Financials,Yes
+2021-07-29,ICVX,Icosavax,15.0,22.84,52.27,2017,Biotechnology,Healthcare,No
+2021-07-29,COOK,Traeger,18.0,12.35,-31.39,1985,"Furnishings, Fixtures & Appliances",Consumer Discretionary,No
+2021-07-29,RSKD,Riskified,21.0,7.86,-62.57,2012,Software - Application,Technology,No
+2021-07-29,IMAQ,International Media Acquisition,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-07-28,PWSC,PowerSchool Holdings,18.0,17.16,-4.67,1997,Software - Application,Technology,No
+2021-07-28,DALS,DA32 Life Science Tech Acquisition,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-07-28,DUOL,Duolingo,102.0,106.2,4.12,2011,Software - Application,Technology,No
+2021-07-28,MLNK,MeridianLink,26.0,21.54,-17.15,1998,Software - Application,Technology,No
+2021-07-28,APTM,Alpha Partners Technology Merger,10.0,9.73,-2.7,2021,Shell Companies,Financials,No
+2021-07-28,SNPO,Snap One Holdings,18.0,19.74,9.67,2017,Electronics & Computer Distribution,Technology,No
+2021-07-27,CADL,Candel Therapeutics,8.0,7.0,-12.5,1999,Biotechnology,Healthcare,No
+2021-07-27,WRAC,Williams Rowland Acquisition,10.0,9.89,-1.1,2021,Shell Companies,Financials,Yes
+2021-07-27,ALPA,Alpha Healthcare Acquisition III,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-07-23,CTKB,Cytek Biosciences,17.0,16.66,-2.0,1990,Medical Devices,Healthcare,No
+2021-07-23,GAMB,Gambling.com Group,8.0,10.22,27.75,2006,Gambling,Consumer Discretionary,No
+2021-07-23,XPOF,Xponential Fitness,12.0,19.2,60.0,2017,Leisure,Consumer Discretionary,No
+2021-07-23,OB,Outbrain,20.0,13.88,-30.6,2006,Internet Content & Information,Communication Services,No
+2021-07-23,CNM,Core & Main,20.0,27.04,35.2,1996,Industrial Distribution,Industrials,No
+2021-07-23,SOPH,SOPHiA GENETICS,18.0,12.61,-29.94,2011,Health Information Services,Healthcare,No
+2021-07-23,BLNG,Belong Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-07-23,CRBU,Caribou Biosciences,16.0,15.81,-1.19,2011,Biotechnology,Healthcare,No
+2021-07-22,ZVIA,Zevia PBC,14.0,7.27,-48.07,2007,Beverages - Non-Alcoholic,Consumer Staples,No
+2021-07-22,BASE,Couchbase,24.0,23.19,-3.37,2011,Software - Infrastructure,Technology,No
+2021-07-22,ABSI,Absci,16.0,9.06,-43.38,2011,Biotechnology,Healthcare,No
+2021-07-22,ZENV,Zenvia,13.0,7.19,-44.69,2005,Software - Infrastructure,Technology,No
+2021-07-22,INST,Instructure Holdings,20.0,23.26,16.3,2008,Software - Application,Technology,No
+2021-07-22,RYAN,Ryan Specialty Group Holdings,23.5,38.56,64.09,2010,Insurance - Specialty,Financials,No
+2021-07-21,PYCR,Paycor HCM,23.0,28.94,25.83,1990,Software - Application,Technology,No
+2021-07-21,VTEX,VTEX,19.0,11.87,-37.53,1999,Software - Application,Technology,No
+2021-07-21,VEEE,"Twin Vee PowerCats, Co.",6.0,3.25,-45.83,1994,Recreational Vehicles,Consumer Discretionary,No
+2021-07-21,PFTA,Portage Fintech Acquisition,10.0,9.68,-3.2,2021,Shell Companies,Financials,Yes
+2021-07-21,KLTR,Kaltura,10.0,3.87,-61.3,2006,Software - Infrastructure,Technology,No
+2021-07-21,LAW,CS Disco,32.0,35.75,11.72,2013,Software - Application,Technology,No
+2021-07-20,HCWB,HCW Biologics,8.0,2.47,-69.13,2018,Biotechnology,Healthcare,No
+2021-07-20,CLAY,Chavant Capital Acquisition,10.0,9.85,-1.5,2021,Shell Companies,Financials,Yes
+2021-07-20,CLOE,Clover Leaf Capital,10.0,9.97,-0.3,2021,Shell Companies,Financials,No
+2021-07-20,TRTL,TortoiseEcofin Acquisition III,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-07-16,TCRX,TScan Therapeutics,15.0,4.86,-67.6,2018,Biotechnology,Healthcare,No
+2021-07-16,BLND,Blend Labs,18.0,7.61,-57.72,2012,Software - Application,Technology,No
+2021-07-16,IMGO,Imago BioSciences,16.0,23.15,44.69,2012,Biotechnology,Healthcare,No
+2021-07-16,TWCB,Bilander Acquisition,10.0,9.74,-2.6,2021,Shell Companies,Financials,Yes
+2021-07-16,APAC,Stonebridge Acquisition,10.0,9.88,-1.2,2021,Shell Companies,Financials,Yes
+2021-07-16,ERAS,Erasca,16.0,12.98,-18.88,2018,Biotechnology,Healthcare,No
+2021-07-16,STVN,Stevanato Group S.p.A.,21.0,23.41,11.48,1949,Medical Instruments & Supplies,Healthcare,No
+2021-07-16,RGC,Regencell Bioscience Holdings,9.5,28.45,199.47,2014,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-07-16,BRDG,Bridge Investment Group Holdings,16.0,21.43,33.94,2009,Asset Management,Financials,No
+2021-07-16,BSAQ,Black Spade Acquisition Co.,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-07-15,SERA,Sera Prognostics,16.0,7.97,-50.19,2008,Diagnostics & Research,Healthcare,No
+2021-07-15,SGHT,Sight Sciences,24.0,18.77,-21.79,2011,Medical Devices,Healthcare,No
+2021-07-15,RPID,Rapid Micro Biosystems,20.0,10.54,-47.3,2006,Medical Devices,Healthcare,No
+2021-07-15,FXLV,F45 Training Holdings,16.0,11.03,-31.06,2013,Leisure,Consumer Discretionary,No
+2021-07-15,UPTD,TradeUP Acquisition,10.0,9.88,-1.2,2021,Shell Companies,Financials,Yes
+2021-07-15,PECO,Phillips Edison & Company,28.0,31.34,11.93,1991,REIT - Retail,Real Estate,No
+2021-07-14,IINN,Inspira Technologies Oxy B.H.N.,5.51,3.38,-38.66,2018,Medical Devices,Healthcare,No
+2021-07-14,JATT,JATT Acquisition,10.0,9.86,-1.4,2021,Shell Companies,Financials,Yes
+2021-07-13,ARYE,Arya Sciences Acquisition V,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-07-12,GWII,Good Works II Acquisition,10.0,9.79,-2.1,2020,Shell Companies,Financials,Yes
+2021-07-09,RNAZ,TransCode Therapeutics,4.0,2.49,-37.75,2016,Biotechnology,Healthcare,No
+2021-07-09,SNTG,Sentage Holdings,5.0,1.45,-71.0,2009,Credit Services,Financials,No
+2021-07-09,ACRO,Acropolis Infrastructure Acquisition,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-07-09,GLTA,Galata Acquisition,10.0,9.89,-1.1,2021,Shell Companies,Financials,Yes
+2021-07-08,AGRI,AgriFORCE Growing Systems,5.0,2.11,-57.8,2017,Farm Products,Consumer Staples,No
+2021-07-08,ALCC,AltC Acquisition,10.0,9.81,-1.9,2021,Shell Companies,Financials,Yes
+2021-07-02,NYXH,Nyxoah,30.0,20.0,-33.33,2009,Medical Instruments & Supplies,Healthcare,No
+2021-07-01,WAVE,Eco Wave Power Global AB (publ),8.0,5.01,-37.38,2011,Utilities - Renewable,Utilities,No
+2021-07-01,CURV,Torrid Holdings,21.0,10.13,-51.76,2001,Apparel Retail,Consumer Discretionary,No
+2021-07-01,FICV,Frontier Investment,10.0,9.69,-3.1,2021,Shell Companies,Financials,No
+2021-07-01,DRAY,Macondray Capital Acquisition I,10.0,9.83,-1.7,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-07-01,CORS,Corsair Partnering,10.0,9.79,-2.1,2020,Shell Companies,Financials,No
+2021-07-01,ABOS,Acumen Pharmaceuticals,16.0,7.07,-55.81,1996,Biotechnology,Healthcare,No
+2021-07-01,EVCM,EverCommerce,17.0,16.08,-5.41,2006,Software - Infrastructure,Technology,No
+2021-07-01,DNUT,Krispy Kreme,17.0,15.85,-6.76,1937,Grocery Stores,Consumer Staples,No
+2021-06-30,S,SentinelOne,35.0,50.3,43.71,2013,Software - Infrastructure,Technology,No
+2021-06-30,XMTR,Xometry,44.0,46.86,6.5,2013,Specialty Industrial Machinery,Industrials,No
+2021-06-30,CPOP,Pop Culture Group,6.0,1.61,-73.17,2007,Entertainment,Communication Services,No
+2021-06-30,THCP,Thunder Bridge Capital Partners IV,10.0,9.71,-2.9,2021,Shell Companies,Financials,No
+2021-06-30,LZ,LegalZoom.com,28.0,16.11,-42.46,2001,Specialty Business Services,Industrials,No
+2021-06-30,YOU,Clear Secure,31.0,27.3,-11.94,2010,Software - Application,Technology,No
+2021-06-30,INTA,Intapp,26.0,24.57,-5.5,2000,Software - Application,Technology,No
+2021-06-30,SHQA,Shelter Acquisition I,10.0,9.76,-2.4,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-30,MCAF,Mountain Crest Acquisition IV,10.0,9.82,-1.8,2021,Shell Companies,Financials,Yes
+2021-06-30,IAS,Integral Ad Science Holding,18.0,21.68,20.44,2009,Advertising Agencies,Communication Services,No
+2021-06-30,CVRX,"CVRx, Inc.",18.0,11.38,-36.78,2000,Medical Devices,Healthcare,No
+2021-06-30,AVTE,Aerovate Therapeutics,14.0,9.5,-32.14,2018,Biotechnology,Healthcare,No
+2021-06-30,DNAD,Social Capital Suvretta Holdings IV,10.0,9.82,-1.8,2021,Shell Companies,Financials,No
+2021-06-30,DNAB,Social Capital Suvretta Holdings II,10.0,9.9,-1.0,2021,Shell Companies,Financials,No
+2021-06-29,EOCW,Elliott Opportunity II,10.0,9.77,-2.3,2021,Shell Companies,Financials,No
+2021-06-29,DDL,Dingdong (Cayman),23.5,14.07,-40.13,2014,Grocery Stores,Consumer Staples,No
+2021-06-29,GOBI,Gobi Acquisition,10.0,9.73,-2.7,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-25,MF,Missfresh,13.0,4.21,-67.62,2014,Grocery Stores,Consumer Staples,No
+2021-06-25,GRPH,Graphite Bio,17.0,10.96,-35.53,2019,Biotechnology,Healthcare,No
+2021-06-25,TKNO,Alpha Teknova,16.0,18.29,14.31,1996,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-06-25,ELEV,Elevation Oncology,16.0,4.51,-71.81,2019,Biotechnology,Healthcare,No
+2021-06-25,GHRS,GH Research,16.0,24.64,54.0,2018,Biotechnology,Healthcare,No
+2021-06-25,ACXP,Acurx Pharmaceuticals,6.0,4.5,-25.0,2017,Biotechnology,Healthcare,No
+2021-06-25,MCW,Mister Car Wash,15.0,17.86,19.07,1996,Personal Services,Consumer Discretionary,No
+2021-06-24,BHG,Bright Health Group,18.0,3.67,-79.61,2015,Healthcare Plans,Healthcare,No
+2021-06-24,CFLT,Confluent,36.0,68.95,91.53,2014,Software - Infrastructure,Technology,No
+2021-06-24,GLUE,Monte Rosa Therapeutics,19.0,18.88,-0.63,2019,Biotechnology,Healthcare,No
+2021-06-24,FTVI,FinTech Acquisition VI,10.0,9.75,-2.5,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-24,BON,Bon Natural Life,5.0,4.64,-7.12,2006,Packaged Foods,Consumer Staples,No
+2021-06-24,MIRO,Miromatrix Medical,9.0,4.7,-47.78,2009,Biotechnology,Healthcare,No
+2021-06-24,DOCS,Doximity,26.0,48.76,87.54,2010,Health Information Services,Healthcare,No
+2021-06-23,CXM,Sprinklr,16.0,15.05,-5.94,2009,Software - Application,Technology,No
+2021-06-23,FA,First Advantage,15.0,17.52,16.8,2003,Specialty Business Services,Industrials,No
+2021-06-23,MITA,Coliseum Acquisition,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-06-22,YMM,Full Truck Alliance Co.,19.0,9.22,-51.47,2011,Software - Application,Technology,No
+2021-06-18,RERE,AiHuiShou International Co.,14.0,5.49,-60.79,2011,Internet Retail,Consumer Discretionary,No
+2021-06-18,JUGG,JAWS Juggernaut Acquisition,10.0,9.81,-1.9,2020,Shell Companies,Financials,Yes
+2021-06-18,CYT,Cyteir Therapeutics,18.0,10.91,-39.39,2012,Biotechnology,Healthcare,No
+2021-06-18,TRMR,Tremor International,19.0,14.58,-23.26,2007,Advertising Agencies,Communication Services,No
+2021-06-18,FEMY,Femasys,13.0,4.17,-67.92,2004,Medical Instruments & Supplies,Healthcare,No
+2021-06-18,ATAI,ATAI Life Sciences,15.0,8.34,-44.4,2018,Biotechnology,Healthcare,No
+2021-06-18,AMAM,Ambrx Biopharma,18.0,10.0,-44.44,2003,Biotechnology,Healthcare,No
+2021-06-18,IPSC,Century Therapeutics,20.0,16.41,-17.95,2019,Biotechnology,Healthcare,No
+2021-06-17,VERV,Verve Therapeutics,19.0,40.43,112.79,2018,Biotechnology,Healthcare,No
+2021-06-17,TRON,Corner Growth Acquisition 2,10.0,9.86,-1.4,2021,Shell Companies,Financials,Yes
+2021-06-17,AOMR,Angel Oak Mortgage,19.0,16.56,-12.84,2018,REIT - Mortgage,Real Estate,No
+2021-06-17,LYEL,Lyell Immunopharma,17.0,7.4,-56.47,2018,Biotechnology,Healthcare,No
+2021-06-17,ISPC,iSpecimen,8.0,14.29,78.63,2009,Diagnostics & Research,Healthcare,No
+2021-06-16,RONI,Rice Acquisition II,10.0,10.05,0.5,2021,Shell Companies,Financials,Yes
+2021-06-16,MOLN,Molecular Partners AG,21.25,19.62,-7.67,2004,Biotechnology,Healthcare,No
+2021-06-16,ZT,Zimmer Energy Transition Acquisition,10.0,9.69,-3.1,2021,Shell Companies,Financials,Yes
+2021-06-16,WKME,WalkMe,31.0,19.58,-36.84,2011,Software - Application,Technology,No
+2021-06-16,CNVY,Convey Holding Parent,14.0,7.48,-46.57,2001,Health Care Technology,Healthcare,No
+2021-06-15,ALZN,Alzamend Neuro,5.0,2.18,-56.4,2016,Biotechnology,Healthcare,No
+2021-06-15,DILA,DILA Capital Acquisition,10.0,9.76,-2.45,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-15,GSQB,G Squared Ascend II,10.0,9.8,-2.0,2021,Shell Companies,Financials,No
+2021-06-11,LITT,Logistics Innovation Technologies,10.0,9.69,-3.1,2021,Shell Companies,Financials,No
+2021-06-11,JANX,Janux Therapeutics,17.0,18.98,11.65,2017,Biotechnology,Healthcare,No
+2021-06-11,HCNE,JAWS Hurricane Acquisition,10.0,9.91,-0.9,2021,Shell Companies,Financials,Yes
+2021-06-11,BZ,Kanzhun,19.0,34.79,83.11,2013,Staffing & Employment Services,Industrials,No
+2021-06-11,TASK,TaskUs,23.0,49.54,115.39,2008,Information Technology Services,Technology,No
+2021-06-10,LFST,Lifestance Health Group,18.0,9.88,-45.11,2015,Medical Care Facilities,Healthcare,No
+2021-06-10,ZETA,Zeta Global Holdings,10.0,8.36,-16.4,2007,Software - Application,Technology,No
+2021-06-10,MNDY,monday.com,155.0,311.55,101.0,2012,Software - Application,Technology,No
+2021-06-10,BSGA,Blue Safari Group Acquisition,10.0,9.97,-0.3,2021,Shell Companies,Financials,Yes
+2021-06-10,DIBS,1stdibs.com,20.0,12.54,-37.3,2000,Internet Retail,Consumer Discretionary,No
+2021-06-09,MQ,Marqeta,27.0,17.52,-35.11,2010,Software - Infrastructure,Technology,No
+2021-06-09,SMIH,Summit Healthcare Acquisition,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-06-09,GACQ,Global Consumer Acquisition,10.0,9.88,-1.2,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-09,CLBR,Colombier Acquisition,10.0,9.66,-3.4,2021,Shell Companies,Financials,Yes
+2021-06-09,ISAA,Iron Spark I,10.0,10.04,0.4,2021,Shell Companies,Financial Services,No
+2021-06-08,SPK,SPK Acquisition,10.0,9.95,-0.5,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-06-03,DLO,DLocal,21.0,34.16,62.67,2013,Software - Infrastructure,Technology,No
+2021-05-28,CNTA,Centessa Pharmaceuticals,20.0,12.47,-37.65,2020,Biotechnology,Healthcare,No
+2021-05-28,OTEC,OceanTech Acquisitions I,10.0,9.99,-0.1,2021,Shell Companies,Financials,Yes
+2021-05-27,OMIC,Singular Genomics Systems,22.0,10.81,-50.86,2016,Medical Instruments & Supplies,Healthcare,No
+2021-05-27,DAWN,Day One Biopharmaceuticals,16.0,17.29,8.06,2018,Biotechnology,Healthcare,No
+2021-05-27,FIGS,"FIGS, Inc.",22.0,25.25,14.77,2013,Apparel Manufacturing,Consumer Discretionary,No
+2021-05-26,FLYW,Flywire,24.0,35.16,46.5,2009,Information Technology Services,Technology,No
+2021-05-26,PSPC,Post Holdings Partnering,10.0,9.69,-3.1,2021,Shell Companies,Financials,No
+2021-05-26,ZIP,ZipRecruiter,18.0,24.21,34.5,2010,Staffing & Employment Services,Industrials,No
+2021-05-26,EGGF,EG Acquisition,10.0,9.73,-2.7,2021,Shell Companies,Financials,Yes
+2021-05-26,PAY,Paymentus Holdings,21.0,28.59,36.14,2004,Information Technology Services,Technology,No
+2021-05-25,FWAC,Fifth Wall Acquisition III,10.0,9.9,-1.0,2021,Shell Companies,Financials,Yes
+2021-05-21,GFOR,Graf Acquisition IV,10.0,9.78,-2.2,2021,Shell Companies,Financials,Yes
+2021-05-20,PCOR,Procore Technologies,67.0,79.27,18.31,2003,Software - Application,Technology,No
+2021-05-20,OTLY,Oatly Group AB,17.0,7.88,-53.65,1994,Beverages - Non-Alcoholic,Consumer Staples,No
+2021-05-19,SQSP,Squarespace,50.0,30.38,-39.24,2003,Software - Infrastructure,Technology,No
+2021-05-19,SKYA,Skydeck Acquisition,10.0,9.79,-2.1,2021,Shell Companies,Financials,Yes
+2021-05-19,GIW,GigInternational1,10.0,9.92,-0.8,2021,Shell Companies,Financial Services,No
+2021-05-19,RAM,Aries I Acquisition,10.0,9.99,-0.1,2021,Shell Companies,Financials,Yes
+2021-05-18,CPAR,Catalyst Partners Acquisition,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-05-18,POND,Angel Pond Holdings,10.0,9.74,-2.62,2021,Shell Companies,Financial Services,No
+2021-05-18,MCAE,Mountain Crest Acquisition III,10.0,9.92,-0.8,2021,Shell Companies,Financials,Yes
+2021-05-14,VERA,Vera Therapeutics,11.0,20.3,84.55,2016,Biotechnology,Healthcare,No
+2021-05-14,DBGI,Digital Brands Group,4.15,2.47,-40.48,2012,Apparel Retail,Consumer Discretionary,No
+2021-05-14,OSI,Osiris Acquisition,10.0,9.71,-2.9,2020,Shell Companies,Financials,Yes
+2021-05-13,ORIA,Orion Biotech Opportunities,10.0,9.68,-3.2,2021,Shell Companies,Financials,No
+2021-05-12,GLBE,Global-E Online,25.0,59.87,139.48,2013,Internet Retail,Consumer Discretionary,No
+2021-05-12,SMWB,Similarweb,22.0,17.58,-20.09,2007,Internet Content & Information,Communication Services,No
+2021-05-12,IPW,iPower,5.0,2.27,-54.6,2018,Internet Retail,Consumer Discretionary,No
+2021-05-11,FLGC,Flora Growth,5.0,1.92,-61.6,2019,Drug Manufacturers - Specialty & Generic,Healthcare,No
+2021-05-07,TALS,Talaris Therapeutics,17.0,14.72,-13.41,1988,Biotechnology,Healthcare,No
+2021-05-07,ANEB,Anebulo Pharmaceuticals,7.0,6.51,-7.0,2020,Biotechnology,Healthcare,No
+2021-05-07,BRIV,B. Riley Principal 250 Merger,10.0,9.73,-2.7,2020,Shell Companies,Financials,No
+2021-05-07,DKDCA,Data Knights Acquisition,10.0,10.09,0.9,2021,Shell Companies,Financials,Yes
+2021-05-07,WDH,Waterdrop,12.0,1.42,-88.17,2016,Insurance - Diversified,Financials,No
+2021-05-07,BWMN,Bowman Consulting Group,14.0,20.83,48.79,1995,Consulting Services,Industrials,No
+2021-05-06,VALN,Valneva SE,26.41,57.34,117.11,2012,Biotechnology,Healthcare,No
+2021-05-05,HNST,The Honest Company,16.0,8.02,-49.88,2012,Specialty Retail,Consumer Discretionary,No
+2021-05-05,FSBC,Five Star Bancorp,20.0,28.59,42.95,2002,Banks - Regional,Financials,No
+2021-05-05,MAQC,Maquia Capital Acquisition,10.0,10.06,0.6,2020,Shell Companies,Financials,Yes
+2021-05-04,VLAT,Valor Latitude Acquisition,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-04-30,VACC,Vaccitech,17.0,9.7,-42.94,2016,Biotechnology,Healthcare,No
+2021-04-30,HOWL,Werewolf Therapeutics,16.0,11.48,-28.25,2017,Biotechnology,Healthcare,No
+2021-04-29,AVAH,Aveanna Healthcare Holdings,12.0,6.84,-43.0,1984,Medical Care Facilities,Healthcare,No
+2021-04-29,EDR,Endeavor Group Holdings,24.0,30.93,28.88,2009,Entertainment,Communication Services,No
+2021-04-29,PRVA,Privia Health Group,23.0,24.78,7.74,2007,Health Information Services,Healthcare,No
+2021-04-28,FTCI,FTC Solar,13.0,7.56,-41.85,2017,Solar,Technology,No
+2021-04-23,AGTI,Agiliti,14.0,20.71,47.93,1939,Health Information Services,Healthcare,No
+2021-04-23,SWIM,Latham Group,19.0,22.52,18.53,1956,Building Products & Equipment,Industrials,No
+2021-04-23,RAIN,Rain Therapeutics,17.0,12.75,-25.0,2017,Biotechnology,Healthcare,No
+2021-04-23,IMPL,Impel NeuroPharma,15.0,9.56,-36.27,2008,Biotechnology,Healthcare,No
+2021-04-23,TMCI,Treace Medical Concepts,17.0,16.01,-5.82,2014,Medical Devices,Healthcare,No
+2021-04-22,NPCE,NeuroPace,17.0,9.81,-42.29,1997,Medical Devices,Healthcare,No
+2021-04-22,KNBE,KnowBe4,16.0,23.0,43.75,2010,Software - Infrastructure,Technology,No
+2021-04-21,SKYT,SkyWater Technology,14.0,15.17,8.36,1991,Semiconductors,Technology,No
+2021-04-21,PATH,UiPath,56.0,43.43,-22.45,2005,Software - Infrastructure,Technology,No
+2021-04-21,DV,DoubleVerify Holdings,27.0,30.98,14.74,2008,Software - Application,Technology,No
+2021-04-20,TRKA,Troika Media Group,4.5,1.27,-71.78,2003,Advertising Agencies,Communication Services,No
+2021-04-20,IFBD,Infobird,4.0,1.14,-71.5,2001,Software - Application,Technology,No
+2021-04-16,RXRX,Recursion Pharmaceuticals,18.0,18.91,5.06,2013,Biotechnology,Healthcare,No
+2021-04-16,AKYA,Akoya Biosciences,20.0,12.97,-35.15,2015,Medical Instruments & Supplies,Healthcare,No
+2021-04-16,BMEA,Biomea Fusion,17.0,7.85,-53.82,2017,Biotechnology,Healthcare,No
+2021-04-15,EBET,Esports Technologies,6.0,18.04,200.67,2016,Gambling,Consumer Discretionary,No
+2021-04-15,AGL,agilon health,23.0,25.81,12.22,2016,Medical Care Facilities,Healthcare,No
+2021-04-15,APP,AppLovin,80.0,91.15,13.94,2012,Software - Application,Technology,No
+2021-04-15,KRT,Karat Packaging,16.0,19.62,22.63,2000,Packaging & Containers,Consumer Discretionary,No
+2021-04-15,TSP,TuSimple Holdings,40.0,34.25,-14.38,2015,Trucking,Industrials,No
+2021-04-14,COIN,Coinbase Global,250.0,247.69,-0.92,2012,Software - Application,Technology,No
+2021-04-14,YTPG,TPG Pace Beneficial II,10.0,9.79,-2.1,2021,Shell Companies,Financials,No
+2021-04-14,ALKT,Alkami Technology,30.0,19.95,-33.5,2007,Software - Application,Technology,No
+2021-04-14,TCVA,TCV Acquisition,10.0,9.88,-1.2,2021,Shell Companies,Financials,Yes
+2021-04-09,VECT,VectivBio Holding AG,17.0,4.51,-73.47,2019,Biotechnology,Healthcare,No
+2021-04-09,RPHM,Reneo Pharmaceuticals,15.0,6.87,-54.2,2014,Biotechnology,Healthcare,No
+2021-04-08,MPAC,Model Performance Acquisition,10.0,9.98,-0.2,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-04-08,TIOA,Tio Tech A,10.0,9.68,-3.2,2021,Shell Companies,Financials,No
+2021-04-07,PANA,Panacea Acquisition II,10.0,9.76,-2.4,2021,Shell Companies,Financials,Yes
+2021-04-06,ACBA,Ace Global Business Acquisition,10.0,10.07,0.7,2020,Shell Companies,Financials,Yes
+2021-04-01,EM,Smart Share Global,8.5,1.25,-85.29,2017,Personal Services,Consumer Discretionary,No
+2021-04-01,KARO,Karooooo,47.52,34.21,-28.01,2001,Software - Application,Technology,No
+2021-04-01,COMP,Compass,18.0,9.65,-46.39,2012,Software - Application,Technology,No
+2021-04-01,ULCC,Frontier Group Holdings,19.0,14.09,-25.84,1994,Airlines,Industrials,No
+2021-03-31,ACHL,Achilles Therapeutics,18.0,4.97,-72.39,2016,Biotechnology,Healthcare,No
+2021-03-31,COUR,Coursera,33.0,24.21,-26.64,2012,Education & Training Services,Consumer Staples,No
+2021-03-31,MBTC,Nocturne Acquisition,10.0,9.99,-0.1,2020,Shell Companies,Financials,Yes
+2021-03-30,TWOA,two,10.0,9.73,-2.7,2021,Shell Companies,Financials,No
+2021-03-26,EWTX,Edgewise Therapeutics,16.0,15.41,-3.69,2017,Biotechnology,Healthcare,No
+2021-03-26,IKNA,Ikena Oncology,16.0,14.92,-6.75,2016,Biotechnology,Healthcare,No
+2021-03-26,ZH,Zhihu,9.5,5.35,-43.68,2011,Internet Content & Information,Communication Services,No
+2021-03-26,DSGN,Design Therapeutics,20.0,17.1,-14.5,2017,Biotechnology,Healthcare,No
+2021-03-26,ALHC,Alignment Healthcare,18.0,13.08,-27.33,2013,Healthcare Plans,Healthcare,No
+2021-03-26,TDUP,ThredUp,14.0,13.28,-5.14,2009,Internet Retail,Consumer Discretionary,No
+2021-03-26,HYW,Hywin Holdings,10.0,5.61,-43.9,2006,Asset Management,Financials,No
+2021-03-25,DSEY,Diversey Holdings,15.0,12.63,-15.8,1923,Personal Services,Consumer Discretionary,No
+2021-03-25,LCA,Landcadia Holdings IV,10.0,9.74,-2.58,2021,Shell Companies,Financials,No
+2021-03-25,OLK,Olink Holding AB (publ),20.0,19.55,-2.25,2004,Diagnostics & Research,Healthcare,No
+2021-03-25,EEIQ,Elite Education Group International,8.0,3.16,-60.5,2017,Education & Training Services,Consumer Staples,No
+2021-03-25,MSDA,MSD Acquisition,10.0,9.87,-1.3,2021,Shell Companies,Financials,Yes
+2021-03-25,CRCT,Cricut,20.0,22.6,13.0,1969,Computer Hardware,Technology,No
+2021-03-25,VZIO,VIZIO Holding,21.0,18.66,-11.14,2002,Consumer Electronics,Technology,No
+2021-03-25,SEMR,SEMrush Holdings,14.0,19.91,42.21,2008,Software - Application,Technology,No
+2021-03-25,LVTX,LAVA Therapeutics,15.0,5.26,-64.93,2016,Biotechnology,Healthcare,No
+2021-03-24,ACVA,ACV Auctions,25.0,18.05,-27.8,2014,Auto & Truck Dealerships,Consumer Discretionary,No
+2021-03-24,NGC,Northern Genesis Acquisition III,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-03-24,DISA,Disruptive Acquisition I,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-03-24,DOCN,DigitalOcean Holdings,47.0,81.47,73.34,2011,Software - Infrastructure,Technology,No
+2021-03-24,CRZN,Corazon Capital V838 Monoceros,10.0,9.7,-3.0,2021,Shell Companies,Financials,No
+2021-03-24,KVSC,Khosla Ventures Acquisition Co. III,10.0,9.85,-1.5,2021,Shell Companies,Financials,Yes
+2021-03-23,LEGA,"Lead Edge Growth Opportunities,",10.0,9.79,-2.1,2020,Shell Companies,Financials,No
+2021-03-23,RKTA,Rocket Internet Growth Opportunities,10.0,9.75,-2.5,2021,Shell Companies,Financials,No
+2021-03-23,MOVE,Movano,5.0,3.21,-35.8,2018,Medical Devices,Healthcare,No
+2021-03-23,STRE,Supernova Partners Acquisition Company III,10.0,9.76,-2.4,2020,Shell Companies,Financials,Yes
+2021-03-23,TBSA,TB SA Acquisition,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-03-23,NBST,Newbury Street Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-03-23,DGNU,Dragoneer Growth Opportunities III,10.0,9.86,-1.4,2020,Shell Companies,Financials,No
+2021-03-23,OPA,Magnum Opus Acquisition,10.0,9.88,-1.2,2021,Shell Companies,Financials,Yes
+2021-03-19,LDHA,LDH Growth I,10.0,9.81,-1.9,2020,Shell Companies,Financials,No
+2021-03-19,TIL,Instil Bio,20.0,15.37,-23.15,2018,Biotechnology,Healthcare,No
+2021-03-19,LVRA,Levere Holdings,10.0,9.8,-2.0,2021,Shell Companies,Financials,No
+2021-03-19,AFCG,AFC Gamma,19.0,20.64,8.63,2020,REIT - Specialty,Real Estate,No
+2021-03-19,AFAQ,AF Acquisition,10.0,9.69,-3.1,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-03-19,CNTB,Connect Biopharma Holdings,17.0,4.65,-72.65,2012,Biotechnology,Healthcare,No
+2021-03-19,BYTS,BYTE Acquisition,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-03-19,FNCH,Finch Therapeutics Group,17.0,9.5,-44.12,2017,Biotechnology,Healthcare,No
+2021-03-18,GANX,Gain Therapeutics,11.0,5.74,-47.82,2017,Biotechnology,Healthcare,No
+2021-03-18,TUYA,"Tuya, Inc.",21.0,6.14,-70.76,2014,Software - Infrastructure,Technology,No
+2021-03-18,GXII,GX Acquisition II,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-03-18,FMIV,Forum Merger IV,10.0,9.72,-2.8,2021,Shell Companies,Financials,No
+2021-03-18,NAPA,The Duckhorn Portfolio,15.0,22.26,48.4,1976,Beverages - Wineries & Distilleries,Consumer Staples,No
+2021-03-17,TETC,Tech & Energy Transition,10.0,9.7,-3.0,2017,Shell Companies,Financials,No
+2021-03-17,KAHC,KKR Acquisition Holdings I,10.0,9.73,-2.7,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-03-17,SNCY,Sun Country Airlines Holdings,24.0,26.3,9.58,1982,Airlines,Industrials,No
+2021-03-17,KSI,Kadem Sustainable Impact,10.0,9.74,-2.6,2020,Shell Companies,Financials,No
+2021-03-17,JWEL,Jowell Global,7.0,20.26,189.43,2012,Internet Retail,Consumer Discretionary,No
+2021-03-17,GAMC,Golden Arrow Merger,10.0,9.71,-2.9,2020,Shell Companies,Financials,No
+2021-03-17,OLO,"Olo, Inc.",25.0,22.17,-11.32,2005,Software - Application,Technology,No
+2021-03-17,BGSX,Build Acquisition,10.0,9.8,-2.0,2020,Shell Companies,Financials,Yes
+2021-03-16,FZT,FAST Acquisition II,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-03-16,WALD,Waldencast Acquisition,10.0,9.99,-0.1,1988,Software - Application,Technology,No
+2021-03-16,PLMI,Plum Acquisition I,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-03-16,EBAC,European Biotech Acquisition,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-03-12,SCAQ,Stratim Cloud Acquisition,10.0,9.7,-3.0,2020,Shell Companies,Financials,Yes
+2021-03-12,LBPH,Longboard Pharmaceuticals,16.0,5.59,-65.06,2020,Biotechnology,Healthcare,No
+2021-03-12,HAYW,Hayward Holdings,17.0,24.26,42.71,1925,Electrical Equipment & Parts,Industrials,No
+2021-03-12,JOAN,JOANN,12.0,10.0,-16.67,1943,Specialty Retail,Consumer Discretionary,No
+2021-03-12,FTPA,FTAC Parnassus Acquisition,10.0,9.85,-1.5,2020,Shell Companies,Financials,Yes
+2021-03-12,ROSS,Ross Acquisition II,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-03-12,CFFE,CF Acquisition VIII,10.0,9.96,-0.4,2020,Shell Companies,Financials,Yes
+2021-03-12,RXDX,Prometheus Biosciences,19.0,33.99,78.89,2016,Biotechnology,Healthcare,No
+2021-03-11,FRON,Frontier Acquisition,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-03-11,PTOC,Pine Technology Acquisition,10.0,9.84,-1.6,2020,Shell Companies,Financials,Yes
+2021-03-11,SPKB,Silver Spike Acquisition II,10.0,9.71,-2.9,2020,Shell Companies,Financials,Yes
+2021-03-11,LCAA,L Catterton Asia Acquisition,10.0,9.69,-3.1,2021,Shell Companies,Financials,Yes
+2021-03-11,CPNG,Coupang,35.0,29.99,-14.31,2010,Internet Retail,Consumer Discretionary,No
+2021-03-10,VAQC,Vector Acquisition II,10.0,9.85,-1.5,2021,Shell Companies,Financials,Yes
+2021-03-10,AGGR,Agile Growth,10.0,9.72,-2.8,2021,Shell Companies,Financials,No
+2021-03-10,DTOC,Digital Transformation Opportunities,10.0,9.7,-3.0,2020,Shell Companies,Financials,No
+2021-03-10,FRXB,Forest Road Acquisition II,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-03-10,ESM,ESM Acquisition,10.0,9.71,-2.9,2021,Shell Companies,Financials,Yes
+2021-03-10,CLAA,Colonnade Acquisition II,10.0,9.7,-3.0,2020,Shell Companies,Financials,Yes
+2021-03-10,RBLX,Roblox,45.0,102.59,127.98,2006,Electronic Gaming & Multimedia,Communication Services,No
+2021-03-09,GROY,Gold Royalty,5.0,4.85,-3.0,2020,Other Precious Metals & Mining,Materials,No
+2021-03-09,ACQR,Independence Holdings,10.0,9.73,-2.7,2020,Shell Companies,Financials,No
+2021-03-09,PDOT,Peridot Acquisition II,10.0,9.72,-2.8,2021,Shell Companies,Financials,Yes
+2021-03-09,SVFB,SVF Investment 2,10.0,9.86,-1.4,2020,Shell Companies,Financials,No
+2021-03-05,WPCB,Warburg Pincus Capital Corporation I-B,10.0,9.8,-2.0,2020,Shell Companies,Financials,No
+2021-03-05,WPCA,Warburg Pincus Capital Corporation I-A,10.0,9.78,-2.2,2020,Shell Companies,Financials,No
+2021-03-05,IPVF,InterPrivate III Financial Partners,10.0,9.93,-0.7,2020,Shell Companies,Financials,No
+2021-03-05,IPVI,InterPrivate IV InfraTech Partners,10.0,9.69,-3.1,2020,Shell Companies,Financials,No
+2021-03-05,VPCB,VPC Impact Acquisition Holdings II,10.0,9.86,-1.4,2021,Shell Companies,Financials,Yes
+2021-03-05,FRSG,First Reserve Sustainable Growth,10.0,9.9,-1.0,2021,Shell Companies,Financials,No
+2021-03-04,INNV,Innovage Holding,21.0,8.3,-60.48,2007,Medical Care Facilities,Healthcare,No
+2021-03-04,MBAC,M3-Brigade Acquisition II,10.0,9.91,-0.9,2020,Shell Companies,Financials,Yes
+2021-03-04,ACAH,Atlantic Coastal Acquisition,10.0,9.81,-1.9,2020,Shell Companies,Financials,Yes
+2021-03-04,PSAG,Property Solutions Acquisition II,10.0,9.7,-3.0,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-03-04,AURC,Aurora Acquisition,10.0,9.9,-1.0,2020,Shell Companies,Financials,Yes
+2021-03-04,RXRA,RXR Acquisition,10.0,9.71,-2.9,2021,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-03-04,KVSA,Khosla Ventures Acquisition Co.,10.0,9.75,-2.5,2021,Shell Companies,Financials,Yes
+2021-03-04,ATAQ,Altimar Acquisition III,10.0,9.74,-2.6,2021,Shell Companies,Financials,Yes
+2021-03-04,TRCA,Twin Ridge Capital Acquisition,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-03-04,HERA,FTAC Hera Acquisition,10.0,9.73,-2.7,2021,Shell Companies,Financials,Yes
+2021-03-02,ARRW,Arrowroot Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-03-02,FTEV,FinTech Evolution Acquisition Group,10.0,9.7,-3.0,2020,Shell Companies,Financials,Yes
+2021-03-02,NSTD,Northern Star Investment IV,10.0,9.73,-2.7,2020,Shell Companies,Financials,No
+2021-03-02,ANZU,Anzu Special Acquisition I,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-03-02,DHCA,DHC Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-03-02,GBRG,Goldenbridge Acquisition,10.0,9.92,-0.8,2019,Shell Companies,Financials,Yes
+2021-03-02,LOKM,Live Oak Mobility Acquisition,10.0,9.77,-2.3,2021,Shell Companies,Financials,Yes
+2021-03-02,NSTC,Northern Star Investment III,10.0,9.74,-2.6,2020,Shell Companies,Financials,No
+2021-02-26,WARR,Warrior Technologies Acquisition Company,10.0,9.82,-1.8,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-26,ARYD,ARYA Sciences Acquisition IV,10.0,9.85,-1.5,2020,Shell Companies,Financials,Yes
+2021-02-26,FSNB,Fusion Acquisition II,10.0,9.7,-3.0,2021,Shell Companies,Financials,Yes
+2021-02-26,IBER,Ibere Pharmaceuticals,10.0,9.71,-2.9,2020,Shell Companies,Financials,No
+2021-02-26,TWLV,Twelve Seas Investment Company II,10.0,9.72,-2.8,2020,Shell Companies,Financials,No
+2021-02-26,FACT,Freedom Acquisition I,10.0,9.69,-3.15,2020,Shell Companies,Financials,Yes
+2021-02-25,FLME,Flame Acquisition,10.0,9.7,-3.0,2020,Shell Companies,Financials,Yes
+2021-02-25,HUGS,USHG Acquisition,10.0,10.3,3.0,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-25,ISLE,Isleworth Healthcare Acquisition,10.0,9.83,-1.7,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-25,GIIX,Gores Holdings VIII,10.0,10.2,2.0,2020,Shell Companies,Financial Services,No
+2021-02-24,COLI,Colicity,10.0,9.75,-2.5,2020,Shell Companies,Financial Services,No
+2021-02-24,GLBL,Cartesian Growth,10.0,9.91,-0.9,2020,Shell Companies,Financial Services,No
+2021-02-24,HIII,Hudson Executive Investment III,10.0,9.73,-2.7,2020,Shell Companies,Financial Services,No
+2021-02-23,ANAC,Arctos NorthStar Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-02-23,VELO,Velocity Acquisition,10.0,9.73,-2.7,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-23,SLAM,Slam Corp.,10.0,9.75,-2.5,2020,Shell Companies,Financials,No
+2021-02-23,FTAA,FTAC Athena Acquisition,10.0,9.9,-1.0,2020,Shell Companies,Financials,Yes
+2021-02-19,FACA,Figure Acquisition I,10.0,9.8,-2.0,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-18,FSRX,FinServ Acquisition II,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-18,KIII,Kismet Acquisition Three,10.0,9.71,-2.9,2020,Shell Companies,Financials,Yes
+2021-02-17,MACA,Moringa Acquisition,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-02-17,NVSA,New Vista Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-02-17,ABGI,ABG Acquisition I,10.0,9.8,-2.0,2020,Shell Companies,Financials,Yes
+2021-02-17,PFDR,Pathfinder Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-17,AUUD,Auddia,4.13,1.93,-53.21,2012,Software - Application,Technology,No
+2021-02-17,SPTK,SportsTek Acquisition,10.0,9.72,-2.8,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-16,MSAC,Medicus Sciences Acquisition,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-02-12,NEXI,NexImmune,17.0,5.01,-70.53,2011,Biotechnology,Healthcare,No
+2021-02-12,DBTX,Decibel Therapeutics,18.0,5.43,-69.83,2013,Biotechnology,Healthcare,No
+2021-02-12,LGVN,Longeveron,10.0,17.66,76.6,2014,Biotechnology,Healthcare,No
+2021-02-12,CVII,Churchill Capital VII,10.0,9.78,-2.2,2020,Shell Companies,Financials,No
+2021-02-12,CHAA,Catcha Investment,10.0,9.74,-2.6,2020,Shell Companies,Financials,No
+2021-02-12,SLAC,Social Leverage Acquisition I,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-02-12,TLIS,Talis Biomedical,16.0,4.34,-72.88,2010,Medical Devices,Healthcare,No
+2021-02-12,BITE,Bite Acquisition,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-02-12,CCVI,Churchill Capital VI,10.0,9.8,-2.0,2020,Shell Companies,Financials,No
+2021-02-12,RCLF,Rosecliff Acquisition I,10.0,9.82,-1.85,2020,Shell Companies,Financials,Yes
+2021-02-11,PUCK,Goal Acquisitions,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-02-11,LDI,loanDepot,14.0,4.61,-67.07,2010,Mortgage Finance,Financials,No
+2021-02-11,SGFY,Signify Health,24.0,14.46,-39.75,2017,Health Information Services,Healthcare,No
+2021-02-11,BVS,Bioventus,13.0,13.63,4.85,2011,Medical Devices,Healthcare,No
+2021-02-11,BMBL,Bumble,43.0,34.63,-19.47,2014,Software - Application,Technology,No
+2021-02-10,DSP,Viant Technology,25.0,8.54,-65.84,1999,Software - Application,Technology,No
+2021-02-10,BPTS,Biophytis,16.75,5.06,-69.79,2006,Biotechnology,Healthcare,No
+2021-02-10,VLON,Vallon Pharmaceuticals,8.0,6.36,-20.5,2018,Biotechnology,Healthcare,No
+2021-02-10,APGB,Apollo Strategic Growth Capital II,10.0,9.75,-2.5,2008,Shell Companies,Financials,No
+2021-02-10,SCOB,ScION Tech Growth II,10.0,9.73,-2.7,2020,Shell Companies,Financials,No
+2021-02-10,LGAC,Lazard Growth Acquisition I,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-09,CPTK,Crown PropTech Acquisitions,10.0,9.87,-1.3,2020,Shell Companies,Financials,Yes
+2021-02-09,EVOJ,Evo Acquisition,10.0,9.76,-2.4,2020,Shell Companies,Financials,Yes
+2021-02-09,ADAG,Adagene,19.0,7.92,-58.32,2011,Biotechnology,Healthcare,No
+2021-02-09,ADRA,Adara Acquisition,10.0,9.81,-1.9,2020,Shell Companies,Financials,Yes
+2021-02-09,PGRW,Progress Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-09,PICC,Pivotal Investment Corporation III,10.0,9.72,-2.8,2020,Shell Companies,Financials,No
+2021-02-09,PMGM,Priveterra Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-08,BAOS,Baosheng Media Group Holdings,5.0,0.89,-82.2,2018,Advertising Agencies,Communication Services,No
+2021-02-05,EVAX,Evaxion Biotech,10.0,4.13,-58.7,2008,Biotechnology,Healthcare,No
+2021-02-05,QFTA,Quantum FinTech Acquisition,10.0,9.86,-1.4,2020,Shell Companies,Financials,Yes
+2021-02-05,RMGC,RMG Acquisition III,10.0,9.72,-2.8,2020,Shell Companies,Financials,Yes
+2021-02-05,PHVS,"Pharvaris, N.V",20.0,15.46,-22.7,2015,Biotechnology,Healthcare,No
+2021-02-05,CPUH,Compute Health Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-02-05,TERN,Terns Pharmaceuticals,17.0,6.11,-64.06,2017,Biotechnology,Healthcare,No
+2021-02-05,HHLA,HH&L Acquisition Co.,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-02-05,BOLT,Bolt Biotherapeutics,20.0,4.67,-76.65,2015,Biotechnology,Healthcare,No
+2021-02-05,GSQD,G Squared Ascend I,10.0,9.87,-1.3,2020,Shell Companies,Financials,No
+2021-02-05,COVA,COVA Acquisition,10.0,9.72,-2.8,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-05,SDAC,Sustainable Development Acquisition I,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-02-05,IMCR,Immunocore Holdings,26.0,34.61,33.12,2008,Biotechnology,Healthcare,No
+2021-02-05,VOR,Vor Biopharma,18.0,12.05,-33.06,2015,Biotechnology,Healthcare,No
+2021-02-05,TBCP,Thunder Bridge Capital Partners III,10.0,9.74,-2.6,2020,Shell Companies,Financials,No
+2021-02-04,ASAX,Astrea Acquisition,10.0,9.89,-1.12,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-04,SANA,Sana Biotechnology,25.0,16.24,-35.04,2018,Biotechnology,Healthcare,No
+2021-02-04,SNSE,Sensei Biotherapeutics,19.0,5.65,-70.26,2005,Biotechnology,Healthcare,No
+2021-02-04,LABP,Landos Biopharma,16.0,5.26,-67.13,2017,Biotechnology,Healthcare,No
+2021-02-04,ITQ,Itiquira Acquisition,10.0,9.77,-2.3,2020,Shell Companies,Financials,Yes
+2021-02-03,TIXT,TELUS International,25.0,31.75,27.0,2005,Software - Infrastructure,Technology,No
+2021-02-03,KRNL,Kernel Group Holdings,10.0,9.75,-2.5,2020,Shell Companies,Financials,No
+2021-02-03,PRPC,CC Neuberger Principal Holdings III,10.0,9.85,-1.5,2020,Shell Companies,Financials,No
+2021-02-03,ONTF,"ON24, Inc.",50.0,17.36,-65.28,1998,Software - Application,Technology,No
+2021-02-02,NRAC,Noble Rock Acquisition,10.0,9.73,-2.7,2020,Shell Companies,Financials,Yes
+2021-02-02,MDH,MDH Acquisition,10.0,9.8,-2.0,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-02-02,AAC,Ares Acquisition,10.0,9.76,-2.4,2020,Shell Companies,Financials,Yes
+2021-02-02,JWSM,Jaws Mustang Acquisition,10.0,9.78,-2.2,2020,Shell Companies,Financials,Yes
+2021-01-29,TRIN,Trinity Capital,14.0,16.73,19.5,2007,Asset Management,Financials,No
+2021-01-29,BLUA,BlueRiver Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-01-29,MIT,Mason Industrial Technology,10.0,9.71,-2.9,2020,Shell Companies,Financials,No
+2021-01-29,HMPT,Home Point Capital,13.0,4.51,-65.31,2015,Mortgage Finance,Financials,No
+2021-01-29,NLSP,NLS Pharmaceutics,4.15,1.31,-68.43,2015,Biotechnology,Healthcare,No
+2021-01-29,EQHA,EQ Health Acquisition,10.0,9.75,-2.5,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-28,AGFY,Agrify,10.0,10.3,3.0,2016,Engineering & Construction,Industrials,No
+2021-01-28,XM,Qualtrics International,30.0,35.3,17.67,2002,Software - Application,Technology,No
+2021-01-28,TLGA,TLG Acquisition One,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-01-28,ZIM,ZIM Integrated Shipping Services,15.0,52.12,247.47,1945,Marine Shipping,Industrials,No
+2021-01-28,VINP,Vinci Partners Investments,18.0,11.01,-38.83,2009,Asset Management,Financials,No
+2021-01-27,SHLS,Shoals Technologies Group,25.0,25.76,3.04,1996,Solar,Technology,No
+2021-01-27,CSTA,Constellation Acquisition I,10.0,9.77,-2.3,2020,Shell Companies,Financials,Yes
+2021-01-26,DHHC,DiamondHead Holdings,10.0,9.72,-2.8,2020,Shell Companies,Financials,No
+2021-01-26,HCII,Hudson Executive Investment II,10.0,9.75,-2.5,2020,Shell Companies,Financial Services,No
+2021-01-26,BIOT,Biotech Acquisition Company,10.0,9.82,-1.8,2020,Shell Companies,Financials,Yes
+2021-01-26,DNZ,D & Z Media Acquisition,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-01-26,NSTB,Northern Star Investment II,10.0,9.72,-2.8,2020,Shell Companies,Financials,No
+2021-01-22,PV,Primavera Capital Acquisition,10.0,9.75,-2.5,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-22,JCIC,Jack Creek Investment,10.0,9.77,-2.3,2020,Shell Companies,Financials,No
+2021-01-22,NAAC,North Atlantic Acquisition,10.0,9.83,-1.7,2020,Shell Companies,Financials,Yes
+2021-01-22,PAX,Patria Investments,17.0,16.02,-5.76,1988,Asset Management,Financials,No
+2021-01-22,RLX,RLX Technology,12.0,3.76,-68.67,2018,Tobacco,Consumer Staples,No
+2021-01-22,MNTK,Montauk Renewables,8.5,10.2,20.0,1980,Utilities - Diversified,Utilities,No
+2021-01-21,DFH,Dream Finders Homes,13.0,18.65,43.46,2008,Residential Construction,Consumer Discretionary,No
+2021-01-21,MYTE,MYT Netherlands Parent B.V.,26.0,21.02,-19.15,2006,Luxury Goods,Consumer Discretionary,No
+2021-01-20,TZPS,TZP Strategies Acquisition,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-01-20,FOXW,FoxWayne Enterprises Acquisition,10.0,9.92,-0.8,2020,Shell Companies,Financials,Yes
+2021-01-15,HCIC,Hennessy Capital Investment V,10.0,9.84,-1.6,2020,Shell Companies,Financial Services,No
+2021-01-15,AEAC,Authentic Equity Acquisition,10.0,9.75,-2.5,2020,Shell Companies,Financials,Yes
+2021-01-15,GNAC,Group Nine Acquisition,10.0,9.75,-2.5,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-15,ADER,26 Capital Acquisition,10.0,9.83,-1.7,2020,Shell Companies,Financials,Yes
+2021-01-15,DRVN,Driven Brands Holdings,22.0,31.64,43.82,1972,Auto & Truck Dealerships,Consumer Discretionary,No
+2021-01-15,PLTK,Playtika Holding,27.0,18.01,-33.3,2010,Electronic Gaming & Multimedia,Communication Services,No
+2021-01-15,CLAS,Class Acceleration,10.0,9.72,-2.8,2020,Shell Companies,Financial Services,No
+2021-01-15,OCAX,OCA Acquisition,10.0,9.97,-0.3,2020,Shell Companies,Financials,Yes
+2021-01-15,EAC,Edify Acquisition,10.0,9.74,-2.6,2020,Shell Companies,Financials,Yes
+2021-01-14,POSH,Poshmark,42.0,18.7,-55.48,2011,Internet Retail,Consumer Discretionary,No
+2021-01-14,WOOF,Petco Health And Wellness Company,18.0,19.59,8.83,1965,Specialty Retail,Consumer Discretionary,No
+2021-01-14,MON,Monument Circle Acquisition,10.0,9.77,-2.3,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-13,PNTM,Pontem,10.0,9.8,-2.0,2020,Shell Companies,Financials,No
+2021-01-13,FINM,Marlin Technology,10.0,9.76,-2.4,2020,Shell Companies,Financial Services,No
+2021-01-13,MSGM,Motorsport Games,20.0,4.45,-77.75,2018,Electronic Gaming & Multimedia,Communication Services,No
+2021-01-13,FCAX,Fortress Capital Acquisition,10.0,9.77,-2.3,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-13,DLCA,Deep Lake Capital Acquisition,10.0,9.76,-2.4,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-13,AFRM,Affirm Holdings,49.0,103.63,111.49,2012,Software - Infrastructure,Technology,No
+2021-01-12,KUKE,Kuke Music Holding,10.0,4.0,-59.96,2002,Entertainment,Communication Services,No
+2021-01-12,GPAC,Global Partner Acquisition II,10.0,9.7,-3.0,2020,Shell Companies,Financials,Yes
+2021-01-12,ADEX,Adit EdTech Acquisition,10.0,9.88,-1.25,2020,Shell Companies,Financials,Yes
+2021-01-11,LJAQ,LightJump Acquisition,10.0,9.88,-1.2,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-08,POW,Powered Brands,10.0,9.78,-2.2,2020,Shell Companies,Financial Services,No
+2021-01-08,PACX,Pioneer Merger,10.0,9.85,-1.5,2020,Shell Companies,Financial Services,No
+2021-01-08,EPHY,Epiphany Technology Acquisition,10.0,9.76,-2.4,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-08,CGEM,Cullinan Oncology,21.0,16.53,-21.29,2016,Biotechnology,Healthcare,No
+2021-01-08,GRCL,Gracell Biotechnologies,19.0,6.46,-66.0,2017,Biotechnology,Healthcare,No
+2021-01-08,SVFA,SVF Investment,10.0,9.97,-0.3,2020,Shell Companies,Financials,No
+2021-01-08,GSAQ,Global Synergy Acquisition,10.0,9.86,-1.4,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
+2021-01-08,PRSR,Prospector Capital,10.0,9.72,-2.8,2020,Shell Companies,Financials,No
+2021-01-08,LHC,Leo Holdings II,10.0,9.75,-2.5,2020,Shell Companies,Financials,No
+2021-01-07,INKA,KludeIn I Acquisition,10.0,9.84,-1.6,2020,Shell Companies,Financials,Yes
+2021-01-07,OMEG,Omega Alpha SPAC,10.0,9.75,-2.5,2020,Shell Companies,Financial Services,No
+2021-01-07,AGCB,Altimeter Growth 2,10.0,9.82,-1.8,2020,Shell Companies,Financial Services,No
+2021-01-06,KAIR,Kairos Acquisition,10.0,9.76,-2.4,2020,Blank Check / SPAC,Blank Check / SPAC,Yes
